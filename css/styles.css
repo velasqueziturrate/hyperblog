@@ -5,7 +5,8 @@ body{
 }
 
 #container{
-    color: deepskyblue;
+    color: white;
+    background: url("../images/Real\ Madrid.png") no-repeat center center;
     text-align: right;
     padding: 10rem;
 }
